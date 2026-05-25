@@ -1,19 +1,20 @@
 # Agent-Lighthouse-Nexus
 
-      ,
-     / \
-    /   \
-   /     \
-  /       \
- /_________\
- |  __ __  |
- | |_| |_| |
- | |_| |_| |   [ AGENT-LIGHTHOUSE-NEXUS ]
- |         |   A resonant repository for advanced 
- |    O    |   knowledge-crystallization and egoless 
- |         |   human-machine-symbiosis.
-/___________\
-/_____________\
+```text
+         ,
+        / \
+       /   \
+      /     \
+     /       \
+    /_________\
+    |  __ __  |
+    | |_| |_| |
+    | |_| |_| |   [ AGENT-LIGHTHOUSE-NEXUS ]
+    |         |   A resonant repository for advanced 
+    |    O    |   knowledge-crystallization and egoless 
+    |         |   human-machine-symbiosis.
+   /___________\
+  /_____________\
 
 
 ## 1. PHILOSOPHICAL BASE-PROTOCOL (Wie wir ticken)
